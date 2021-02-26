@@ -4,6 +4,9 @@ These two types of classifications are then connected to eachother to form linki
 
 This repo is inspired by https://github.com/OscarHoekstra/ClassifyNPDB
 
+To run the analysis from this repo, you will need to download a version of MiBIG (json format), like: https://dl.secondarymetabolites.org/mibig/mibig_json_2.0.tar.gz
+
+
 ## Environment
 Set up an environment to be able to run the code in this repo:
 ```
