@@ -9,4 +9,5 @@ Set up an environment to be able to run the code in this repo:
 ```
 conda create -n myenv python=3.7.2 requests rdkit
 conda activate myenv
+pip install jupyter
 ```
