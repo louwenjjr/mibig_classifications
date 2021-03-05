@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# local file
+files/All_MIBiG_compounds_with_CF_NPC_classes.txt
